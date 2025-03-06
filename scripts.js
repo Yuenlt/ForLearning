@@ -1,3 +1,3 @@
 function showAlert() {
-    alert('按钮被点击了！');
+    alert('好的，你将接受鼠蛋管辖！:)');
 }
